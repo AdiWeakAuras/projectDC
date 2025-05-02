@@ -1,0 +1,27 @@
+=== Main Test Suite Starting ===
+
+--- Testing Basic Run ---
+Basic run time: 9721.481 ms
+
+--- Testing Pause/Resume ---
+Iteration 1 time: 3275803.3 us
+Iteration 2 time: 3262686.4 us
+Iteration 3 time: 3322719 us
+Total Pause/Resume time: 9861.209 ms
+
+--- Testing Timer Accuracy ---
+Expected: 200 ms
+Measured: 203.256 ms
+Offset: 1,63%
+
+--- Testing TimeUnit Conversion ---
+Original nanos: 1234567890
+In Microseconds: 1234567.89 us
+In Milliseconds: 1234.568 ms
+In Seconds: 1.235 s
+
+--- Testing Cancellation (short run) ---
+[Cancel] Requesting cancel...
+Cancelled run time: 54.734 ms
+
+=== Main Test Suite Finished ===
