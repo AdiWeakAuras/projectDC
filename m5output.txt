@@ -1,0 +1,13 @@
+Warming up...
+
+Testing FIXED POINT performance
+Fixed-point finished in 125 ms
+Operations: 100,000,000
+MOPS: 800.00
+
+Testing FLOATING POINT performance
+Floating-point finished in 350 ms
+Operations: 100,000,000
+MOPS: 285.71
+
+Speedup (fixed vs float): 2.80x

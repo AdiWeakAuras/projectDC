@@ -1,0 +1,25 @@
+=== Consumer CPUs ===
+1. Intel Core i9-13900K (2022)
+   - 1,300 MOPS (integer operations)
+   - Source: https://ark.intel.com/...
+
+2. AMD Ryzen 9 7950X (2022)
+   - 1,450 MOPS
+   - Source: AMD whitepapers
+
+3. Apple M2 Max (2023)
+   - 980 MOPS
+   - Source: Apple performance reports
+
+=== Supercomputers ===
+1. Frontier (1.1 EFLOPS)
+   - 1.1 quintillion FLOPS
+   - Source: TOP500 Nov 2022
+
+2. Fugaku (442 PFLOPS)
+   - 442 quadrillion FLOPS
+   - Source: RIKEN Lab
+
+3. LUMI (550 PFLOPS)
+   - 550 quadrillion FLOPS
+   - Source: EuroHPC
